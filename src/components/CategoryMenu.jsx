@@ -1,6 +1,6 @@
-import '../styles/category-menu.css';
-import Button from './Button';
 import {useEffect, useState} from 'react';
+import Button from './Button';
+import '../styles/category-menu.css';
 
 const CategoryMenu = () => {
   const [categories, setCategories] = useState([]);
@@ -8,7 +8,7 @@ const CategoryMenu = () => {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch('./src/data/categories.json');
+        const response = await fetch('/data/categories.json');
         const data = await response.json();
         setCategories(data);
       } catch (error) {

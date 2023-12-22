@@ -6,7 +6,7 @@ import '../styles/product-grid.css';
 const ProductGrid = () => {
   const [cartItems, setCartItems] = useState([]);
 
-  const {data: products, isLoading, error} = useFetch('./src/data/products.json');
+  const {data: products, isLoading, error} = useFetch('/data/products.json');
 
   if (isLoading) return <p className='product__loader'>Cargando productos...</p>;
   if (error) return <p>Error al cargar productos: {error}</p>;

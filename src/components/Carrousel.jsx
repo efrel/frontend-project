@@ -2,11 +2,41 @@ import {useState} from 'react';
 import '../styles/carrousel.css';
 
 const carrousels = [
-  {id: 1, title: 'Express Delivery', imageUrl: 'src/assets/express-delivery.png', description: 'With selected items'},
-  {id: 2, title: 'Cash On Delivery', imageUrl: 'src/assets/cash-on-delivery.png', description: 'With selected items'},
-  {id: 3, title: 'Gift Voucher', imageUrl: 'src/assets/gift-voucher.png', description: 'With personal care items'},
-  {id: 4, title: 'Cupon', imageUrl: 'src/assets/coupon-savings.png', description: 'With selected items'},
-  {id: 5, title: 'Envio gratis', imageUrl: 'src/assets/free-delivery.png', description: 'With selected items'},
+  {
+    id: 1,
+    title: 'Express Delivery',
+    imageUrl:
+      'https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F902%2Foffer-5.png&w=640&q=75',
+    description: 'With selected items',
+  },
+  {
+    id: 2,
+    title: 'Cash On Delivery',
+    imageUrl:
+      'https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F903%2Foffer-4.png&w=640&q=75',
+    description: 'With selected items',
+  },
+  {
+    id: 3,
+    title: 'Gift Voucher',
+    imageUrl:
+      'https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F904%2Foffer-3.png&w=640&q=75',
+    description: 'With personal care items',
+  },
+  {
+    id: 4,
+    title: 'Cupon',
+    imageUrl:
+      'https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F906%2Foffer-1.png&w=640&q=75',
+    description: 'With selected items',
+  },
+  {
+    id: 5,
+    title: 'Envio gratis',
+    imageUrl:
+      'https://pickbazar-react-rest.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F905%2Foffer-2.png&w=640&q=75',
+    description: 'With selected items',
+  },
 ];
 
 const Carrousel = () => {

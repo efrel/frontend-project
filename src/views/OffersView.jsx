@@ -8,7 +8,7 @@ const OffersView = () => {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch('./src/data/offers.json');
+        const response = await fetch('/data/offers.json');
         const data = await response.json();
         setOffers(data);
       } catch (error) {

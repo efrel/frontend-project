@@ -8,7 +8,7 @@ const ShopsView = () => {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch('./src/data/shops.json');
+        const response = await fetch('/data/shops.json');
         const data = await response.json();
         setShops(data);
       } catch (error) {
