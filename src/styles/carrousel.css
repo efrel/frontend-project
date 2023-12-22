@@ -1,0 +1,47 @@
+.carrousel {
+  @apply relative mt-8 overflow-hidden;
+}
+
+.carrousel__wrapper {
+  @apply overflow-hidden;
+}
+
+.carrousel__track {
+  @apply flex space-x-4 transition-transform duration-700 ease-in-out;
+}
+
+.carrousel__slide {
+  @apply flex-grow-0 flex-shrink-0 w-full md:w-1/2 lg:w-1/3;
+}
+
+/* .carrousel__slide--active {
+  @apply opacity-100;
+} */
+
+.carrousel__image {
+  @apply object-cover w-full h-auto;
+}
+
+.carrousel__info {
+  @apply absolute bottom-0 left-0 p-4 text-white bg-black bg-opacity-50;
+}
+
+/* .carrousel__title {
+  @apply text-xl font-bold;
+}
+
+.carrousel__description {
+  @apply text-sm;
+} */
+
+.carrousel__control {
+  @apply absolute z-10 p-2 text-white transform -translate-y-1/2 bg-black rounded-full cursor-pointer top-1/2;
+}
+
+.carrousel__control--prev {
+  @apply left-4;
+}
+
+.carrousel__control--next {
+  @apply right-4;
+}

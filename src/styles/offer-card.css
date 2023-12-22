@@ -1,0 +1,15 @@
+.offer-card {
+  @apply p-4 m-2 bg-cyan-500 text-white text-center rounded-lg shadow-sm transition-all duration-200 hover:-translate-y-0.5 hover:shadow;
+}
+
+.offer-card__discount {
+  @apply text-2xl font-bold;
+}
+
+.offer-card__code {
+  @apply mt-2 mb-4;
+}
+
+.offer-card__copy-btn {
+  @apply px-3 py-1 text-white rounded cursor-pointer;
+}

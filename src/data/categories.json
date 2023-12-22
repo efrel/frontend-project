@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "nuevo",
+    "image": "https://media.macphun.com/img/uploads/customer/how-to/608/15542038745ca344e267fb80.28757312.jpg?q=85&w=1340",
+    "creationAt": "2023-12-21T09:27:01.000Z",
+    "updatedAt": "2023-12-22T01:28:42.000Z"
+  },
+  {
+    "id": 2,
+    "name": "Electronics",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq70AvDs-OIZrlcU0kAqvObihT8VhvedCurSyXCDCakQ&s",
+    "creationAt": "2023-12-21T09:27:01.000Z",
+    "updatedAt": "2023-12-21T17:16:54.000Z"
+  },
+  {
+    "id": 3,
+    "name": "Furniture",
+    "image": "https://media.macphun.com/img/uploads/customer/how-to/608/15542038745ca344e267fb80.28757312.jpg?q=85&w=1340",
+    "creationAt": "2023-12-21T09:27:01.000Z",
+    "updatedAt": "2023-12-21T11:23:56.000Z"
+  },
+  {
+    "id": 4,
+    "name": "Shoes",
+    "image": "https://helpx.adobe.com/content/dam/help/en/photoshop/using/convert-color-image-black-white/jcr_content/main-pars/before_and_after/image-before/Landscape-Color.jpg",
+    "creationAt": "2023-12-21T09:27:01.000Z",
+    "updatedAt": "2023-12-21T11:23:23.000Z"
+  },
+  {
+    "id": 5,
+    "name": "Furniture",
+    "image": "https://media.macphun.com/img/uploads/customer/how-to/608/15542038745ca344e267fb80.28757312.jpg?q=85&w=1340",
+    "creationAt": "2023-12-21T09:27:01.000Z",
+    "updatedAt": "2023-12-21T11:24:08.000Z"
+  },
+  {
+    "id": 6,
+    "name": "Plants",
+    "image": "https://api.escuelajs.co/api/v1/files/6214.jpg",
+    "creationAt": "2023-12-21T12:37:25.000Z",
+    "updatedAt": "2023-12-21T17:17:16.000Z"
+  },
+  {
+    "id": 7,
+    "name": "New Category",
+    "image": "https://placeimg.com/640/480/any",
+    "creationAt": "2023-12-21T18:22:45.000Z",
+    "updatedAt": "2023-12-21T18:22:45.000Z"
+  }
+]

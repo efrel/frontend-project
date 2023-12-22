@@ -1,0 +1,19 @@
+.shop-card {
+  @apply flex flex-col items-center p-4 mb-4 bg-white rounded-lg md:mb-0 shadow-sm transition-all duration-200 hover:-translate-y-0.5 hover:shadow;
+}
+
+.shop-card__icon {
+  @apply flex items-center justify-center w-16 h-16 mb-4 bg-green-200 rounded-full;
+}
+
+.shop-card__icon--img {
+  @apply w-10 h-10;
+}
+
+.shop-card__title {
+  @apply mb-2 text-lg font-bold;
+}
+
+.shop-card__address {
+  @apply text-sm text-gray-600;
+}

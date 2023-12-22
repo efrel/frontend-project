@@ -1,0 +1,19 @@
+.banner {
+  @apply relative hidden w-full h-screen lg:flex;
+}
+
+.banner__imagen {
+  @apply absolute inset-0 object-cover w-full h-full bg-transparent;
+}
+
+.banner__body {
+  @apply absolute inset-0 flex flex-col items-center justify-center w-full p-5 mt-0 text-center md:px-20 lg:space-y-10;
+}
+
+.body__title {
+  @apply text-3xl font-bold tracking-tight lg:text-4xl xl:text-5xl;
+}
+
+.body__subtitle {
+  @apply mb-8 text-sm text-4xl text-center text-gray-400 lg:text-base xl:text-lg;
+}

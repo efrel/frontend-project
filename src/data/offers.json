@@ -1,0 +1,11 @@
+[
+  {"id": 1, "discount": "$4 OFF", "code": "4OFF", "color": "blue"},
+  {"id": 2, "discount": "$5 OFF", "code": "5OFF", "color": "orange"},
+  {"id": 3, "discount": "$6 OFF", "code": "6OFF", "color": "teal"},
+  {"id": 4, "discount": "$4 OFF", "code": "4OFF", "color": "blue"},
+  {"id": 5, "discount": "$5 OFF", "code": "5OFF", "color": "orange"},
+  {"id": 6, "discount": "$6 OFF", "code": "6OFF", "color": "teal"},
+  {"id": 7, "discount": "$4 OFF", "code": "4OFF", "color": "blue"},
+  {"id": 8, "discount": "$5 OFF", "code": "5OFF", "color": "orange"},
+  {"id": 9, "discount": "$6 OFF", "code": "6OFF", "color": "teal"}
+]

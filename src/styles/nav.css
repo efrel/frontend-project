@@ -1,0 +1,39 @@
+.nav {
+  @apply sticky top-0 z-50 w-full transition-all border-b border-green-200 shadow-sm lg:h-20;
+}
+
+.nav__hidden {
+  @apply fixed inset-0 -z-10 h-[100vh] w-full bg-black/50 hidden;
+}
+
+.nav__container {
+  @apply flex items-center justify-between w-full px-5 transition-transform duration-300 bg-white transform-gpu lg:h-20 lg:px-6 2xl:px-8;
+}
+
+.container__logo {
+  @apply flex flex-wrap items-center shrink-0 grow-0 basis-auto ltr:mr-auto rtl:ml-auto lg:w-auto lg:flex-nowrap;
+}
+
+.container__logo--a {
+  @apply inline-flex py-3 mx-auto lg:mx-0;
+}
+
+.logo__spam {
+  @apply relative h-[2.125rem] w-32 overflow-hidden md:w-[8.625rem];
+}
+
+.logo__spam--img {
+  @apply absolute inset-0 w-full h-full bg-transparent;
+}
+
+.container__options {
+  @apply flex items-center shrink-0 space-x-7 rtl:space-x-reverse 2xl:space-x-10;
+}
+
+.options__list {
+  @apply items-center hidden shrink-0 space-x-7 rtl:space-x-reverse xl:flex 2xl:space-x-10;
+}
+
+.options__button {
+  @apply flex items-center space-x-4 rtl:space-x-reverse;
+}

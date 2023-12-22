@@ -1,0 +1,7 @@
+.category-menu {
+  @apply hidden h-full bg-white lg:sticky xl:block xl:w-72 lg:top-20;
+}
+
+.category-menu__item {
+  @apply block w-full px-4 pb-2 text-gray-700 hover:text-gray-900 whitespace-nowrap;
+}

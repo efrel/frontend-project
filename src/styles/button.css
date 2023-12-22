@@ -1,0 +1,17 @@
+/* estilos bases */
+.btn {
+  @apply px-4 py-2 transition duration-300 ease-in-out rounded focus:outline-none focus:ring;
+}
+
+/* Variantes */
+.btn--primary {
+  @apply p-2 text-white transition-colors duration-200 bg-green-500 rounded cursor-pointer hover:bg-green-600 focus:outline-0;
+}
+
+.btn--secondary {
+  @apply p-2 text-gray-600 transition-colors duration-200 bg-white rounded cursor-pointer hover:text-green-600 focus:outline-0;
+}
+
+.btn--danger {
+  @apply p-2 text-white transition-colors duration-200 bg-red-500 rounded cursor-pointer hover:bg-red-600 focus:outline-0;
+}

@@ -1,0 +1,523 @@
+[
+  {
+    "id": 1,
+    "name": "Cactus Collection",
+    "price": 10.99,
+    "description": "A beautiful collection of watercolor cacti, perfect for home decor.",
+    "imageUrl": [
+      "https://img.freepik.com/vector-gratis/coleccion-set-cactus-acuarela_47987-10999.jpg?size=626&ext=jpg"
+    ],
+    "creationAt": "2023-12-19T15:34:51.000Z",
+    "updatedAt": "2023-12-19T23:33:28.000Z",
+    "category": {
+      "id": 1,
+      "name": "Home Decor",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "creationAt": "2023-12-19T08:09:41.000Z",
+      "updatedAt": "2023-12-20T01:33:54.000Z"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Vintage Lantern",
+    "price": 15.75,
+    "description": "Vintage lantern for ambient lighting and decoration.",
+    "imageUrl": ["https://img.freepik.com/free-photo/old-lantern_144627-12635.jpg?size=626&ext=jpg"],
+    "creationAt": "2023-12-19T16:00:00.000Z",
+    "updatedAt": "2023-12-19T23:35:00.000Z",
+    "category": {
+      "id": 2,
+      "name": "Lighting",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "creationAt": "2023-12-19T09:00:00.000Z",
+      "updatedAt": "2023-12-20T02:00:00.000Z"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Artistic Vase",
+    "price": 23.2,
+    "discount": 30,
+    "description": "Artistic vase with modern design to enhance your flowers.",
+    "imageUrl": [
+      "https://img.freepik.com/free-photo/modern-minimalistic-design-home-interior-with-aesthetics-elegant-accessories_179666-176.jpg?size=626&ext=jpg"
+    ],
+    "creationAt": "2023-12-19T17:15:30.000Z",
+    "updatedAt": "2023-12-19T23:40:45.000Z",
+    "category": {
+      "id": 3,
+      "name": "Furniture",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "creationAt": "2023-12-19T10:30:00.000Z",
+      "updatedAt": "2023-12-20T03:15:00.000Z"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Cactus Collection",
+    "price": 10.99,
+    "description": "A beautiful collection of watercolor cacti, perfect for home decor.",
+    "imageUrl": [
+      "https://img.freepik.com/vector-gratis/coleccion-set-cactus-acuarela_47987-10999.jpg?size=626&ext=jpg"
+    ],
+    "creationAt": "2023-12-19T15:34:51.000Z",
+    "updatedAt": "2023-12-19T23:33:28.000Z",
+    "category": {
+      "id": 1,
+      "name": "Home Decor",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "creationAt": "2023-12-19T08:09:41.000Z",
+      "updatedAt": "2023-12-20T01:33:54.000Z"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Vintage Lantern",
+    "price": 15.75,
+    "description": "Vintage lantern for ambient lighting and decoration.",
+    "imageUrl": ["https://img.freepik.com/free-photo/old-lantern_144627-12635.jpg?size=626&ext=jpg"],
+    "creationAt": "2023-12-19T16:00:00.000Z",
+    "updatedAt": "2023-12-19T23:35:00.000Z",
+    "category": {
+      "id": 2,
+      "name": "Lighting",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "creationAt": "2023-12-19T09:00:00.000Z",
+      "updatedAt": "2023-12-20T02:00:00.000Z"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Artistic Vase",
+    "price": 23.2,
+    "description": "Artistic vase with modern design to enhance your flowers.",
+    "imageUrl": [
+      "https://img.freepik.com/free-photo/modern-minimalistic-design-home-interior-with-aesthetics-elegant-accessories_179666-176.jpg?size=626&ext=jpg"
+    ],
+    "creationAt": "2023-12-19T17:15:30.000Z",
+    "updatedAt": "2023-12-19T23:40:45.000Z",
+    "category": {
+      "id": 3,
+      "name": "Furniture",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "creationAt": "2023-12-19T10:30:00.000Z",
+      "updatedAt": "2023-12-20T03:15:00.000Z"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Cactus Collection",
+    "price": 10.99,
+    "description": "A beautiful collection of watercolor cacti, perfect for home decor.",
+    "imageUrl": [
+      "https://img.freepik.com/vector-gratis/coleccion-set-cactus-acuarela_47987-10999.jpg?size=626&ext=jpg"
+    ],
+    "creationAt": "2023-12-19T15:34:51.000Z",
+    "updatedAt": "2023-12-19T23:33:28.000Z",
+    "category": {
+      "id": 1,
+      "name": "Home Decor",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "creationAt": "2023-12-19T08:09:41.000Z",
+      "updatedAt": "2023-12-20T01:33:54.000Z"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Vintage Lantern",
+    "price": 15.75,
+    "description": "Vintage lantern for ambient lighting and decoration.",
+    "imageUrl": ["https://img.freepik.com/free-photo/old-lantern_144627-12635.jpg?size=626&ext=jpg"],
+    "creationAt": "2023-12-19T16:00:00.000Z",
+    "updatedAt": "2023-12-19T23:35:00.000Z",
+    "category": {
+      "id": 2,
+      "name": "Lighting",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "creationAt": "2023-12-19T09:00:00.000Z",
+      "updatedAt": "2023-12-20T02:00:00.000Z"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Artistic Vase",
+    "price": 23.2,
+    "description": "Artistic vase with modern design to enhance your flowers.",
+    "imageUrl": [
+      "https://img.freepik.com/free-photo/modern-minimalistic-design-home-interior-with-aesthetics-elegant-accessories_179666-176.jpg?size=626&ext=jpg"
+    ],
+    "creationAt": "2023-12-19T17:15:30.000Z",
+    "updatedAt": "2023-12-19T23:40:45.000Z",
+    "category": {
+      "id": 3,
+      "name": "Furniture",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "creationAt": "2023-12-19T10:30:00.000Z",
+      "updatedAt": "2023-12-20T03:15:00.000Z"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Cactus Collection",
+    "price": 10.99,
+    "description": "A beautiful collection of watercolor cacti, perfect for home decor.",
+    "imageUrl": [
+      "https://img.freepik.com/vector-gratis/coleccion-set-cactus-acuarela_47987-10999.jpg?size=626&ext=jpg"
+    ],
+    "creationAt": "2023-12-19T15:34:51.000Z",
+    "updatedAt": "2023-12-19T23:33:28.000Z",
+    "category": {
+      "id": 1,
+      "name": "Home Decor",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "creationAt": "2023-12-19T08:09:41.000Z",
+      "updatedAt": "2023-12-20T01:33:54.000Z"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Vintage Lantern",
+    "price": 15.75,
+    "description": "Vintage lantern for ambient lighting and decoration.",
+    "imageUrl": ["https://img.freepik.com/free-photo/old-lantern_144627-12635.jpg?size=626&ext=jpg"],
+    "creationAt": "2023-12-19T16:00:00.000Z",
+    "updatedAt": "2023-12-19T23:35:00.000Z",
+    "category": {
+      "id": 2,
+      "name": "Lighting",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "creationAt": "2023-12-19T09:00:00.000Z",
+      "updatedAt": "2023-12-20T02:00:00.000Z"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Artistic Vase",
+    "price": 23.2,
+    "description": "Artistic vase with modern design to enhance your flowers.",
+    "imageUrl": [
+      "https://img.freepik.com/free-photo/modern-minimalistic-design-home-interior-with-aesthetics-elegant-accessories_179666-176.jpg?size=626&ext=jpg"
+    ],
+    "creationAt": "2023-12-19T17:15:30.000Z",
+    "updatedAt": "2023-12-19T23:40:45.000Z",
+    "category": {
+      "id": 3,
+      "name": "Furniture",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "creationAt": "2023-12-19T10:30:00.000Z",
+      "updatedAt": "2023-12-20T03:15:00.000Z"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Cactus Collection",
+    "price": 10.99,
+    "description": "A beautiful collection of watercolor cacti, perfect for home decor.",
+    "imageUrl": [
+      "https://img.freepik.com/vector-gratis/coleccion-set-cactus-acuarela_47987-10999.jpg?size=626&ext=jpg"
+    ],
+    "creationAt": "2023-12-19T15:34:51.000Z",
+    "updatedAt": "2023-12-19T23:33:28.000Z",
+    "category": {
+      "id": 1,
+      "name": "Home Decor",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "creationAt": "2023-12-19T08:09:41.000Z",
+      "updatedAt": "2023-12-20T01:33:54.000Z"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Vintage Lantern",
+    "price": 15.75,
+    "description": "Vintage lantern for ambient lighting and decoration.",
+    "imageUrl": ["https://img.freepik.com/free-photo/old-lantern_144627-12635.jpg?size=626&ext=jpg"],
+    "creationAt": "2023-12-19T16:00:00.000Z",
+    "updatedAt": "2023-12-19T23:35:00.000Z",
+    "category": {
+      "id": 2,
+      "name": "Lighting",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "creationAt": "2023-12-19T09:00:00.000Z",
+      "updatedAt": "2023-12-20T02:00:00.000Z"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Artistic Vase",
+    "price": 23.2,
+    "description": "Artistic vase with modern design to enhance your flowers.",
+    "imageUrl": [
+      "https://img.freepik.com/free-photo/modern-minimalistic-design-home-interior-with-aesthetics-elegant-accessories_179666-176.jpg?size=626&ext=jpg"
+    ],
+    "creationAt": "2023-12-19T17:15:30.000Z",
+    "updatedAt": "2023-12-19T23:40:45.000Z",
+    "category": {
+      "id": 3,
+      "name": "Furniture",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "creationAt": "2023-12-19T10:30:00.000Z",
+      "updatedAt": "2023-12-20T03:15:00.000Z"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Cactus Collection",
+    "price": 10.99,
+    "description": "A beautiful collection of watercolor cacti, perfect for home decor.",
+    "imageUrl": [
+      "https://img.freepik.com/vector-gratis/coleccion-set-cactus-acuarela_47987-10999.jpg?size=626&ext=jpg"
+    ],
+    "creationAt": "2023-12-19T15:34:51.000Z",
+    "updatedAt": "2023-12-19T23:33:28.000Z",
+    "category": {
+      "id": 1,
+      "name": "Home Decor",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "creationAt": "2023-12-19T08:09:41.000Z",
+      "updatedAt": "2023-12-20T01:33:54.000Z"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Vintage Lantern",
+    "price": 15.75,
+    "description": "Vintage lantern for ambient lighting and decoration.",
+    "imageUrl": ["https://img.freepik.com/free-photo/old-lantern_144627-12635.jpg?size=626&ext=jpg"],
+    "creationAt": "2023-12-19T16:00:00.000Z",
+    "updatedAt": "2023-12-19T23:35:00.000Z",
+    "category": {
+      "id": 2,
+      "name": "Lighting",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "creationAt": "2023-12-19T09:00:00.000Z",
+      "updatedAt": "2023-12-20T02:00:00.000Z"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Artistic Vase",
+    "price": 23.2,
+    "description": "Artistic vase with modern design to enhance your flowers.",
+    "imageUrl": [
+      "https://img.freepik.com/free-photo/modern-minimalistic-design-home-interior-with-aesthetics-elegant-accessories_179666-176.jpg?size=626&ext=jpg"
+    ],
+    "creationAt": "2023-12-19T17:15:30.000Z",
+    "updatedAt": "2023-12-19T23:40:45.000Z",
+    "category": {
+      "id": 3,
+      "name": "Furniture",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "creationAt": "2023-12-19T10:30:00.000Z",
+      "updatedAt": "2023-12-20T03:15:00.000Z"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Cactus Collection",
+    "price": 10.99,
+    "description": "A beautiful collection of watercolor cacti, perfect for home decor.",
+    "imageUrl": [
+      "https://img.freepik.com/vector-gratis/coleccion-set-cactus-acuarela_47987-10999.jpg?size=626&ext=jpg"
+    ],
+    "creationAt": "2023-12-19T15:34:51.000Z",
+    "updatedAt": "2023-12-19T23:33:28.000Z",
+    "category": {
+      "id": 1,
+      "name": "Home Decor",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "creationAt": "2023-12-19T08:09:41.000Z",
+      "updatedAt": "2023-12-20T01:33:54.000Z"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Vintage Lantern",
+    "price": 15.75,
+    "description": "Vintage lantern for ambient lighting and decoration.",
+    "imageUrl": ["https://img.freepik.com/free-photo/old-lantern_144627-12635.jpg?size=626&ext=jpg"],
+    "creationAt": "2023-12-19T16:00:00.000Z",
+    "updatedAt": "2023-12-19T23:35:00.000Z",
+    "category": {
+      "id": 2,
+      "name": "Lighting",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "creationAt": "2023-12-19T09:00:00.000Z",
+      "updatedAt": "2023-12-20T02:00:00.000Z"
+    }
+  },
+  {
+    "id": 21,
+    "name": "Artistic Vase",
+    "price": 23.2,
+    "description": "Artistic vase with modern design to enhance your flowers.",
+    "imageUrl": [
+      "https://img.freepik.com/free-photo/modern-minimalistic-design-home-interior-with-aesthetics-elegant-accessories_179666-176.jpg?size=626&ext=jpg"
+    ],
+    "creationAt": "2023-12-19T17:15:30.000Z",
+    "updatedAt": "2023-12-19T23:40:45.000Z",
+    "category": {
+      "id": 3,
+      "name": "Furniture",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "creationAt": "2023-12-19T10:30:00.000Z",
+      "updatedAt": "2023-12-20T03:15:00.000Z"
+    }
+  },
+  {
+    "id": 22,
+    "name": "Cactus Collection",
+    "price": 10.99,
+    "description": "A beautiful collection of watercolor cacti, perfect for home decor.",
+    "imageUrl": [
+      "https://img.freepik.com/vector-gratis/coleccion-set-cactus-acuarela_47987-10999.jpg?size=626&ext=jpg"
+    ],
+    "creationAt": "2023-12-19T15:34:51.000Z",
+    "updatedAt": "2023-12-19T23:33:28.000Z",
+    "category": {
+      "id": 1,
+      "name": "Home Decor",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "creationAt": "2023-12-19T08:09:41.000Z",
+      "updatedAt": "2023-12-20T01:33:54.000Z"
+    }
+  },
+  {
+    "id": 23,
+    "name": "Vintage Lantern",
+    "price": 15.75,
+    "description": "Vintage lantern for ambient lighting and decoration.",
+    "imageUrl": ["https://img.freepik.com/free-photo/old-lantern_144627-12635.jpg?size=626&ext=jpg"],
+    "creationAt": "2023-12-19T16:00:00.000Z",
+    "updatedAt": "2023-12-19T23:35:00.000Z",
+    "category": {
+      "id": 2,
+      "name": "Lighting",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "creationAt": "2023-12-19T09:00:00.000Z",
+      "updatedAt": "2023-12-20T02:00:00.000Z"
+    }
+  },
+  {
+    "id": 24,
+    "name": "Artistic Vase",
+    "price": 23.2,
+    "description": "Artistic vase with modern design to enhance your flowers.",
+    "imageUrl": [
+      "https://img.freepik.com/free-photo/modern-minimalistic-design-home-interior-with-aesthetics-elegant-accessories_179666-176.jpg?size=626&ext=jpg"
+    ],
+    "creationAt": "2023-12-19T17:15:30.000Z",
+    "updatedAt": "2023-12-19T23:40:45.000Z",
+    "category": {
+      "id": 3,
+      "name": "Furniture",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "creationAt": "2023-12-19T10:30:00.000Z",
+      "updatedAt": "2023-12-20T03:15:00.000Z"
+    }
+  },
+  {
+    "id": 25,
+    "name": "Cactus Collection",
+    "price": 10.99,
+    "description": "A beautiful collection of watercolor cacti, perfect for home decor.",
+    "imageUrl": [
+      "https://img.freepik.com/vector-gratis/coleccion-set-cactus-acuarela_47987-10999.jpg?size=626&ext=jpg"
+    ],
+    "creationAt": "2023-12-19T15:34:51.000Z",
+    "updatedAt": "2023-12-19T23:33:28.000Z",
+    "category": {
+      "id": 1,
+      "name": "Home Decor",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "creationAt": "2023-12-19T08:09:41.000Z",
+      "updatedAt": "2023-12-20T01:33:54.000Z"
+    }
+  },
+  {
+    "id": 26,
+    "name": "Vintage Lantern",
+    "price": 15.75,
+    "description": "Vintage lantern for ambient lighting and decoration.",
+    "imageUrl": ["https://img.freepik.com/free-photo/old-lantern_144627-12635.jpg?size=626&ext=jpg"],
+    "creationAt": "2023-12-19T16:00:00.000Z",
+    "updatedAt": "2023-12-19T23:35:00.000Z",
+    "category": {
+      "id": 2,
+      "name": "Lighting",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "creationAt": "2023-12-19T09:00:00.000Z",
+      "updatedAt": "2023-12-20T02:00:00.000Z"
+    }
+  },
+  {
+    "id": 27,
+    "name": "Artistic Vase",
+    "price": 23.2,
+    "description": "Artistic vase with modern design to enhance your flowers.",
+    "imageUrl": [
+      "https://img.freepik.com/free-photo/modern-minimalistic-design-home-interior-with-aesthetics-elegant-accessories_179666-176.jpg?size=626&ext=jpg"
+    ],
+    "creationAt": "2023-12-19T17:15:30.000Z",
+    "updatedAt": "2023-12-19T23:40:45.000Z",
+    "category": {
+      "id": 3,
+      "name": "Furniture",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "creationAt": "2023-12-19T10:30:00.000Z",
+      "updatedAt": "2023-12-20T03:15:00.000Z"
+    }
+  },
+  {
+    "id": 28,
+    "name": "Cactus Collection",
+    "price": 10.99,
+    "description": "A beautiful collection of watercolor cacti, perfect for home decor.",
+    "imageUrl": [
+      "https://img.freepik.com/vector-gratis/coleccion-set-cactus-acuarela_47987-10999.jpg?size=626&ext=jpg"
+    ],
+    "creationAt": "2023-12-19T15:34:51.000Z",
+    "updatedAt": "2023-12-19T23:33:28.000Z",
+    "category": {
+      "id": 1,
+      "name": "Home Decor",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "creationAt": "2023-12-19T08:09:41.000Z",
+      "updatedAt": "2023-12-20T01:33:54.000Z"
+    }
+  },
+  {
+    "id": 29,
+    "name": "Vintage Lantern",
+    "price": 15.75,
+    "description": "Vintage lantern for ambient lighting and decoration.",
+    "imageUrl": ["https://img.freepik.com/free-photo/old-lantern_144627-12635.jpg?size=626&ext=jpg"],
+    "creationAt": "2023-12-19T16:00:00.000Z",
+    "updatedAt": "2023-12-19T23:35:00.000Z",
+    "category": {
+      "id": 2,
+      "name": "Lighting",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "creationAt": "2023-12-19T09:00:00.000Z",
+      "updatedAt": "2023-12-20T02:00:00.000Z"
+    }
+  },
+  {
+    "id": 30,
+    "name": "Artistic Vase",
+    "price": 23.2,
+    "description": "Artistic vase with modern design to enhance your flowers.",
+    "imageUrl": [
+      "https://img.freepik.com/free-photo/modern-minimalistic-design-home-interior-with-aesthetics-elegant-accessories_179666-176.jpg?size=626&ext=jpg"
+    ],
+    "creationAt": "2023-12-19T17:15:30.000Z",
+    "updatedAt": "2023-12-19T23:40:45.000Z",
+    "category": {
+      "id": 3,
+      "name": "Furniture",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "creationAt": "2023-12-19T10:30:00.000Z",
+      "updatedAt": "2023-12-20T03:15:00.000Z"
+    }
+  }
+]

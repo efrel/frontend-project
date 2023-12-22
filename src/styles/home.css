@@ -1,0 +1,3 @@
+.container__home {
+  @apply flex border-t border-green-200 border-solid border-opacity-70;
+}

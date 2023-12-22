@@ -1,0 +1,15 @@
+.search {
+  @apply flex justify-center w-full;
+}
+
+.search__box {
+  @apply flex w-2/4 h-16 overflow-hidden border border-gray-300 rounded;
+}
+
+.search__box--input {
+  @apply w-full px-12 py-2 font-bold;
+}
+
+.search__box--btn {
+  @apply px-8 py-5 font-bold place-self-end;
+}
